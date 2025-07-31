@@ -4,7 +4,7 @@
 > No JavaScript. No frameworks. Just clean code and creativity. 🚀
 
 ## 🪐 Live Preview
-🔗 [Click here to explore the Solar System!](https://mufaz-vk.github.io/Solar-System) *(Add your GitHub Pages or hosted link here)*
+🔗 [Click here to explore the Solar System!](https://mufaz-vk.github.io/Solar-System) 
 
 ---
 
